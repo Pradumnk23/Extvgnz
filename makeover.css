@@ -1,0 +1,60 @@
+h1,h2{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+
+h1{
+    color:blue;
+    font-family: cursive;
+      
+}
+
+
+.alpha-text {
+    color:#151541;
+    font-family:sans;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
+
+.level1 {
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.level2 {
+    background-color: aquamarine;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+}
+
+.level3 {
+    background-color: chartreuse;
+    background-image: url(IMG-20190319-WA0051.jpg);
+    font-family:cursive;
+    width:100%;
+}
+
+.information {
+    background-color: cornflowerblue;
+    background-image: url(IMG_20190630_014504_214.jpg);
+    font-family: inherit;
+}
+
+p {
+    text-align: justify;
+}
+
+.Name {
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
