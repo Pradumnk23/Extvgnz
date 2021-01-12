@@ -1,0 +1,86 @@
+#alpha{
+	text-align: right;
+}
+#beta{
+	margin-top: 50px;
+	margin-bottom: 20px;
+	margin-top: 0;
+	background-color: #e9ecef;
+}
+#top{
+	margin-top: 30px;
+}
+#button{
+	text-align: center;
+}
+
+.gamma{
+	font-family: 'Sigmar One', cursive;
+	margin-bottom: 2px;
+	margin-top: 10px;
+
+
+}
+.delta{
+	margin-bottom: 3px;
+	margin-top: 0;
+	padding-top: 2px;
+
+}
+#jumbo{
+
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: 5px;
+    font-family: 'Monofett', cursive;
+    font-size: 5em;
+}
+#hit{
+	margin-left: 90px;
+}
+#part1{
+
+}
+#ver{
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 2rem;
+}
+#contact{
+	text-align: center;
+}
+#jumbo2{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.img{
+	size: 50px;
+}
+.centre{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
